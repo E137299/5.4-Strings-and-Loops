@@ -1,7 +1,7 @@
 # Strings and Loops
 
 
-## Count Occurences
+## Count Occurrences
 Write the function called *count_occurrences()* that takes two strings. The function should return how many times the second string occurs in the first string.
 
 Example 1:
